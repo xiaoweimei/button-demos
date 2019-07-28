@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-app-demo1/build/static/css/main.b6cdaab1.chunk.css",
-    "main.js": "/react-app-demo1/build/static/js/main.dda6fe7c.chunk.js",
-    "main.js.map": "/react-app-demo1/build/static/js/main.dda6fe7c.chunk.js.map",
-    "runtime~main.js": "/react-app-demo1/build/static/js/runtime~main.3c3dc5c3.js",
-    "runtime~main.js.map": "/react-app-demo1/build/static/js/runtime~main.3c3dc5c3.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/react-app-demo1/build/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/react-app-demo1/build/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/react-app-demo1/build/index.html",
-    "precache-manifest.5e923824e98f22f859d5702cd65f1824.js": "/react-app-demo1/build/precache-manifest.5e923824e98f22f859d5702cd65f1824.js",
-    "service-worker.js": "/react-app-demo1/build/service-worker.js",
-    "static/css/main.b6cdaab1.chunk.css.map": "/react-app-demo1/build/static/css/main.b6cdaab1.chunk.css.map",
-    "static/media/logo.svg": "/react-app-demo1/build/static/media/logo.5d5d9eef.svg"
+    "main.css": "/button-demos/build/static/css/main.b6cdaab1.chunk.css",
+    "main.js": "/button-demos/build/static/js/main.f2bba6d4.chunk.js",
+    "main.js.map": "/button-demos/build/static/js/main.f2bba6d4.chunk.js.map",
+    "runtime~main.js": "/button-demos/build/static/js/runtime~main.e1a87451.js",
+    "runtime~main.js.map": "/button-demos/build/static/js/runtime~main.e1a87451.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/button-demos/build/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/button-demos/build/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/button-demos/build/index.html",
+    "precache-manifest.e274a1c603d4919b307103d0721e50b3.js": "/button-demos/build/precache-manifest.e274a1c603d4919b307103d0721e50b3.js",
+    "service-worker.js": "/button-demos/build/service-worker.js",
+    "static/css/main.b6cdaab1.chunk.css.map": "/button-demos/build/static/css/main.b6cdaab1.chunk.css.map",
+    "static/media/logo.svg": "/button-demos/build/static/media/logo.5d5d9eef.svg"
   }
 }
